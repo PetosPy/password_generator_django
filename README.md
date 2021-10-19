@@ -1,5 +1,5 @@
 # password_generator_django
-Password generator web. Django first steps
+Password generator with Django.
 
 ## Screenshots
 ![password_gen](https://user-images.githubusercontent.com/64991182/137845488-c7df59fc-bed9-4a8f-9c89-38a10f503b21.jpeg)
